@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(113, 185, 83);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.special{
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.image{
+    padding: 20px;
+    width: 500px;
+}
+.liststuff{
+    color: white;
+}
+
+a{
+    color:rgb(242, 155, 125);
+}
+.tableauPlaceholder{
+    size: 10%;
+}
+
+
