@@ -18,10 +18,27 @@ body{
 }
 
 a{
-    color:rgb(242, 155, 125);
+    color:rgb(4, 115, 24);
 }
 .tableauPlaceholder{
     size: 10%;
+    height: 100px;
+    
+}
+.bottom{
+    text-align: center;
+    padding: 5px;
+    margin: 3px;
+    bottom: 3px;
+}
+
+.para{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
 }
 
 
